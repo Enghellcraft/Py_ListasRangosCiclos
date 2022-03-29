@@ -1,0 +1,1 @@
+print (f"El rango es {list(range(100, 104))}")
